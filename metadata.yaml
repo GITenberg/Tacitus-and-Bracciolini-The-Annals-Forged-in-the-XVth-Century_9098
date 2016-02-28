@@ -1,0 +1,25 @@
+_repo: Tacitus-and-Bracciolini-The-Annals-Forged-in-the-XVth-Century_9098
+creator:
+  author:
+    agent_name: Ross, John Wilson
+    birthdate: 1818
+    deathdate: 1887
+    gutenberg_agent_id: '2975'
+    url: http://www.gutenberg.org/2009/agents/2975
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tacitus, Cornelius. Annales'
+- !lcsh 'Bracciolini, Poggio, 1380-1459'
+- !lcsh 'Literary forgeries and mystifications -- History -- To 1500'
+- !lcsh 'Rome -- History -- Julio-Claudians, 30 B.C.-68 A.D. -- Historiography'
+- !lcc 'PA'
+title: "Tacitus and Bracciolini\r\nThe Annals Forged in the XVth Century"
+url: http://www.gutenberg.org/ebooks/9098
